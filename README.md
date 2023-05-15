@@ -10,6 +10,8 @@ Proje html ve javascript dosyalarından oluşuyor. Ayrıca kullandığım sprite
 
 Projeyi geliştirirken sprite sheet şeklinde yapılan animasyonların daha pratik olduğunu gördüm kısıtlı bir zamanım olduğu için diğer bir yöntem olan animasyonu oluşturan resimleri ayrı ayrı dizilerde tutup döngüyle animasyon oluşturmayı tercih etmedim. Ama pixel arta ve oyun sektörüne aşina olmadığım için biraz zorladı. Sprite sheet kullanırken her bir animasyon karesinin hesaplanıp parametre olarak animate(); fonksiyonuna verilmesi gerekiyor. Bu konuda dikkatli olmanızı tavsiye ederim. Bir de her siteden değil de profesyonel olarak bu işi yapanların çizimlerinden yararlenırsanız sizin için çok daha keyifli bir süreç olacaktır.
 
+Oyuncu kontrollerinde d sağ, a sol, w yukarı, s aşağıyı ifade ediyordu. Bu gösterimi harflerin ASCII kodlarından yararlanarak yaptım.
+
 # Sprite Sheet Örneği
 ![image](https://github.com/sevginuroksuz/Super-Lady-Game/assets/90787721/93751195-a73f-422c-99cb-cb9c44a001c1)
 
