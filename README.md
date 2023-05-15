@@ -2,7 +2,7 @@
 Vanilla javascript ve HTML canvas kullanarak 2d sprite sheetlerin de yardımıyla çok keyifli hale gelmiş basic bir oyun. Klasik super mario tarzı isimler vermek ve onlara cok da fazla benzetmek istemediğim için (adı süper lady :)) özgün pixel art eserlerini elimden geldiğince bir araya getirip kullanmaya çalıştım.
 
 # Projeyi Nasıl Çalıştırırım?
-Projede HTML canvas ve vanilla javascript kullanıldı. Yani sadece bir html, bir js ve resim klasöründen oluşuyor. Html sayfasında javascript kodlarını script  koyarak dahil edebiliyoruz. Kısacası html dosyasını tarayıcınızda çalıştırırsanız sayfanızı kolaylıkla görebilirsiniz.
+Projede HTML canvas ve vanilla javascript kullanıldı. Yani sadece bir html, bir js ve resim klasöründen oluşuyor. Html sayfasında javascript kodlarını <script src="index.js"></script> koyarak dahil edebiliyoruz. Kısacası html dosyasını tarayıcınızda çalıştırırsanız sayfanızı kolaylıkla görebilirsiniz.
 
 
 # Proje Hakkında Detaylı Bilgi
@@ -24,4 +24,15 @@ Oyunda oyuncu biribirinden ayrılmış platformlara düşünce,kakatüs ve kaver
 
 # Oyun Kazanınca Gelen Sayfa
 ![image](https://github.com/sevginuroksuz/Super-Lady-Game/assets/90787721/666356e2-bfc5-4d11-bfe8-bd18b12cd36c)
+
+# Projenin yüklenmiş Hali
+http://superladygame.42web.io/
+
+# Projeye Katkıda Bulunanlar
+Proje üniversitede bireysel olarak verilen bir projeydi. O yüzden kendim yaptım. Önerileriniz olursa bana mail veya linkedin üzerinden ulaşabilirsiniz.
+
+# Sosyal medya hesaplarım 
+ Gmail -> sevginuroksuz@gmail.com
+ LinkedIn -> https://tr.linkedin.com/in/sevgi-nur-oksuz-8b91a5219
+ 
 
