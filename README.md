@@ -5,6 +5,11 @@ Proje html ve javascript dosyalarından oluşuyor. Ayrıca kullandığım sprite
 
 Projeyi geliştirirken sprite sheet şeklinde yapılan animasyonların daha pratik olduğunu gördüm kısıtlı bir zamanım olduğu için diğer bir yöntem olan animasyonu oluşturan resimleri ayrı ayrı dizilerde tutup döngüyle animasyon oluşturmayı tercih etmedim. Ama pixel arta ve oyun sektörüne aşina olmadığım için biraz zorladı. Sprite sheet kullanırken her bir animasyon karesinin hesaplanıp parametre olarak animate(); fonksiyonuna verilmesi gerekiyor. Bu konuda dikkatli olmanızı tavsiye ederim. Bir de her siteden değil de profesyonel olarak bu işi yapanların çizimlerinden yararlenırsanız sizin için çok daha keyifli bir süreç olacaktır.
 
+#Sprite Sheet Örneği
+![image](https://github.com/sevginuroksuz/Super-Lady-Game/assets/90787721/93751195-a73f-422c-99cb-cb9c44a001c1)
+
+
 Oyunda oyuncu biribirinden ayrılmış platformlara düşünce,kakatüs ve kaverengi mantara değince ölüyor. Kırmızı mantar zararlı değil onun için ve ayrıca kahverengi duvarlar oyuncunun tehlikeleri çabuk atlatabilmesi için bir nevi platform işlevi görüyor. Fakat ben bu projede nesnelere değince ölme kısmını tam kafamda oturtamadığım için yapamadım. Oyuncu platformlar arası boşluğa düşünce ölüyor kaybettiniz yazısı yazıyor ve oyun tekrar başlıyor. Skor ve can hesabı yapamadığım için platformda engellerin hepsini aşınca "TEBRİKLER KAZANDINIZ" yazıyor ve oyuncu bir süre daha ilerlerse oyun kendiğinden tekrar başlatılıyor. Oyuncu platformdan çıkamıyor.
 
+#Oyun Başladığında Açılan Sayfa
 ![image](https://github.com/sevginuroksuz/Super-Lady-Game/assets/90787721/98eac7b5-73c5-4e9b-901b-a0b59146794e)
