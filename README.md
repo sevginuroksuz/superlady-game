@@ -1,4 +1,4 @@
-# Super-Lady-Game
+# Super Lady Game
 Vanilla javascript ve HTML canvas kullanarak 2d sprite sheetlerin de yardımıyla çok keyifli hale gelmiş basic bir oyun. Klasik super mario tarzı isimler vermek ve onlara cok da fazla benzetmek istemediğim için (adı süper lady :)) özgün pixel art eserlerini elimden geldiğince bir araya getirip kullanmaya çalıştım.
 
 # Projeyi Nasıl Çalıştırırım?
@@ -14,7 +14,7 @@ Projeyi geliştirirken sprite sheet şeklinde yapılan animasyonların daha prat
 ![image](https://github.com/sevginuroksuz/Super-Lady-Game/assets/90787721/93751195-a73f-422c-99cb-cb9c44a001c1)
 
 
-Oyunda oyuncu biribirinden ayrılmış platformlara düşünce,kakatüs ve kaverengi mantara değince ölüyor. Kırmızı mantar zararlı değil onun için ve ayrıca kahverengi duvarlar oyuncunun tehlikeleri çabuk atlatabilmesi için bir nevi platform işlevi görüyor. Fakat ben bu projede nesnelere değince ölme kısmını tam kafamda oturtamadığım için yapamadım. Oyuncu platformlar arası boşluğa düşünce ölüyor kaybettiniz yazısı yazıyor ve oyun tekrar başlıyor. Skor ve can hesabı yapamadığım için platformda engellerin hepsini aşınca "TEBRİKLER KAZANDINIZ" yazıyor ve oyuncu bir süre daha ilerlerse oyun kendiğinden tekrar başlatılıyor. Oyuncu platformdan çıkamıyor.
+Oyunda oyuncu biribirinden ayrılmış platformlara düşünce,kaktüs ve kaverengi mantara değince ölüyor. Kırmızı mantar zararlı değil onun için ve ayrıca kahverengi duvarlar oyuncunun tehlikeleri çabuk atlatabilmesi için bir nevi platform işlevi görüyor. Fakat ben bu projede nesnelere değince ölme kısmını tam kafamda oturtamadığım için yapamadım. Oyuncu platformlar arası boşluğa düşünce ölüyor kaybettiniz yazısı yazıyor ve oyun tekrar başlıyor. Skor ve can hesabı yapamadığım için platformda engellerin hepsini aşınca "TEBRİKLER KAZANDINIZ" yazıyor ve oyuncu bir süre daha ilerlerse oyun kendiğinden tekrar başlatılıyor. Oyuncu platformdan çıkamıyor.
 
 # Oyun Başladığında Açılan Sayfa
 ![image](https://github.com/sevginuroksuz/Super-Lady-Game/assets/90787721/98eac7b5-73c5-4e9b-901b-a0b59146794e)
@@ -25,7 +25,7 @@ Oyunda oyuncu biribirinden ayrılmış platformlara düşünce,kakatüs ve kaver
 # Oyun Kazanınca Gelen Sayfa
 ![image](https://github.com/sevginuroksuz/Super-Lady-Game/assets/90787721/666356e2-bfc5-4d11-bfe8-bd18b12cd36c)
 
-# Projenin yüklenmiş Hali
+# Projenin Yüklenmiş Hali
 http://superladygame.42web.io/
 
 # Projeye Katkıda Bulunanlar
