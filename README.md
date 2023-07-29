@@ -1,4 +1,4 @@
-# Super Lady Game
+# Superlady Game
 Vanilla javascript ve HTML canvas kullanarak 2d sprite sheetlerin de yardımıyla çok keyifli hale gelmiş basic bir oyun. Klasik super mario tarzı isimler vermek ve onlara cok da fazla benzetmek istemediğim için (adı süper lady :)) özgün pixel art eserlerini elimden geldiğince bir araya getirip kullanmaya çalıştım.
 
 # Projeyi Nasıl Çalıştırırım?
